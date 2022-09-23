@@ -1,0 +1,44 @@
+{
+	"fileName": "id_1663929046617_109_addIFrame",
+	"fileType": "change",
+	"changeType": "addIFrame",
+	"moduleName": "",
+	"reference": "customer.testName",
+	"packageName": "$TMP",
+	"content": {
+		"baseId": "nw.epm.refapps.st.prod.manage::sap.suite.ui.generic.template.ObjectPage.view.Details::SEPMRA_C_PD_Product--id-1663929046597-108",
+		"targetAggregation": "sections",
+		"index": 0,
+		"url": "{Supplier}",
+		"width": "100%",
+		"height": "100%",
+		"selector": {
+			"id": "nw.epm.refapps.st.prod.manage::sap.suite.ui.generic.template.ObjectPage.view.Details::SEPMRA_C_PD_Product--id-1663929046597-108",
+			"idIsLocal": false
+		}
+	},
+	"selector": {
+		"id": "nw.epm.refapps.st.prod.manage::sap.suite.ui.generic.template.ObjectPage.view.Details::SEPMRA_C_PD_Product--objectPage",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/nw.epm.refapps.st.prod.manage/changes/",
+	"projectId": "customer.testName",
+	"creation": "2022-09-23T10:30:48.825Z",
+	"originalLanguage": "RU",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.84.12",
+		"sourceChangeFileName": "",
+		"compositeCommand": "",
+		"command": "addIFrame"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
